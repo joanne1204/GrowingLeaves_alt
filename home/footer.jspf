@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="de">
+<body>
+<div id="footer">
+<footer>
+	  <p> 
+		<a href="./html/faq/index.html">FAQ</a> |
+		<a href="./html/ueberuns/index.html">Über uns</a> |
+		<a href="./html/impressum/index.html">Impressum</a>
+		<br>
+	  </p>
+  </footer>
+  </div>
+  </body>
+</html>
