@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+navigation {font-size: 1.5em;
+			color : 6e8504;
+			text-align: center;
+			background-color: 86601a;
+			font-family: 'GL-Schrift';
+			text-decoration: underline;}
+			
+			/* aus dafont.com Schriftart:Macha */
+@font-face {font-family: 'GL-Schrift';
+			src: url('../home/schriftart.ttf') format('truetype');}
+			
